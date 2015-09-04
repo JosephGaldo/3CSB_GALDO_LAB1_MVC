@@ -12,7 +12,8 @@
 <div id="background-carousel">
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
       <div class="carousel-inner">
-        <div class="item active" style="background-image:url(https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xft1/v/t1.0-9/p480x480/10636020_341581036004508_5417577309641451527_n.jpg?oh=d051f11eabe5fe2c23ccfd0b91977146&oe=566122D9&__gda__=1451121099_832f1282d1bfe76cd949ef529a861ff3)"></div>
+        <div class="item active" style="background-image:url(https://scontent-nrt1-1.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/10440895_315481788614433_7186172402627963667_n.jpg?oh=3b971760d073ce658f394142e2e043b7&oe=567BBE59)"></div>
+        <div class="item" style="background-image:url(https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xft1/v/t1.0-9/p480x480/10636020_341581036004508_5417577309641451527_n.jpg?oh=d051f11eabe5fe2c23ccfd0b91977146&oe=566122D9&__gda__=1451121099_832f1282d1bfe76cd949ef529a861ff3)"></div>
         <div class="item" style="background-image:url(https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xfa1/v/t1.0-9/934823_341581029337842_8954979186239065082_n.jpg?oh=ab551ade2517b2bd258c1e255e289afe&oe=5660CC6D&__gda__=1450701528_09c67105fae97343b77074632fa718df)"></div>
         <div class="item" style="background-image:url(https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xaf1/v/t1.0-9/1546162_341581032671175_7791167700862135775_n.jpg?oh=dac15138439333110d169e87550f7cf1&oe=566EFC3B&__gda__=1449585733_5bd6802e3c9de037dabefa0ecd318597)"></div>  
         <div class="item" style="background-image:url(https://scontent-nrt1-1.xx.fbcdn.net/hphotos-xft1/v/t1.0-9/10636020_341581139337831_5787557695719091136_n.jpg?oh=d4e761ed4b1691343453c39169b85ba2&oe=566F9C52)"></div>  
@@ -29,7 +30,9 @@
 
 	<div class="container"style="padding-top:20vh">
 	   <div class="row">
-			<div class="text-center">
+	   	  <div class="col-md-6 col-md-offset-3">
+	   		<div class="well well lg">
+			   <div class="text-center">
                     <h1>Welcome to YOUniversity Store</h1>
 					<h2>Official Receipt</h2>
             </div>
@@ -46,7 +49,8 @@
 				<form action="index.jsp" action="post">
 					<input type="submit" value=" << GO BACK >>" class="btn btn-success center">
 				</form>
-			
+		   </div>
+		 </div>	
 	   </div>
 	</div>
     
